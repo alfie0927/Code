@@ -26,12 +26,4 @@ This repository contains backtesting implementations of various moving average (
    - 50MA/150MA
    - 100MA/200MA
 
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ma-crossover-strategies.git
-   ```
-
    Published 10/08/2025 by Alfie Luo
